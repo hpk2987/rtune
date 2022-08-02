@@ -1,0 +1,7 @@
+div.offcanvas-favoritos{
+  height: 80vh;
+}
+
+div.offcanvas-favoritos div.offcanvas-header{
+  border-bottom: 1px solid var(--bs-secondary);
+}
